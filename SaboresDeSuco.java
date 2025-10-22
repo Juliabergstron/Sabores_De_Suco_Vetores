@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+
 
 package com.mycompany.saboresdesuco;
 
-/**
- *
- * @author user
- */
 import java.util.Scanner;
 public class SaboresDeSuco {
 
